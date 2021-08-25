@@ -1,4 +1,9 @@
-# About Robert
+---
+layout: page
+title: About Robert
+permalink: /about
+---
+
 ## Let's solve a hard problem together
 
 I’m a *User Experience Professional* in the Greater Boston area. I work with clients to devise and implement 
