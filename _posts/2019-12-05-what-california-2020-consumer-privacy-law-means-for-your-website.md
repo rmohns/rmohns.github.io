@@ -30,7 +30,7 @@ The law starts by laying out some personal rights for the digital age:
 
 No. They’re similar, and they overlap, but being General Data Protection Regulation (GDPR) compliant does not ensure you are also ready for CCPA. PwC summarizes the differences in this chart:
 
-![Table comparing CCPA to GDPR](/images/pwc-ccpa-and-gdpr-chart.png)\
+![Table comparing CCPA to GDPR](/images/blog/pwc-ccpa-and-gdpr-chart.png)\
 *[Image credit: PWC](https://www.pwc.com/us/en/services/consulting/cybersecurity/california-consumer-privacy-act.html)*
 
 
@@ -139,6 +139,6 @@ We also don’t know how far the extraterritorial coverage will reach. If you se
 
 We’re digital marketers and architects. We’re not attorneys. This post is not legal advice. Please talk to your legal department or counsel about CCPA. Have them review and approve your policies and procedures. Above all else: collect as little data as you possibly can. The best way to stay out of trouble is to not do anything wrong.
 
-![yet another ALL THE THINGS! meme](/images/disclaim-all-the-things.png)
+![yet another ALL THE THINGS! meme](/images/blog/disclaim-all-the-things.png)
 
 I originally wrote and published this blog [for Imarc](https://www.imarc.com/blog/is-your-website-ready-for-californias-2020-consumer-privacy-law).
