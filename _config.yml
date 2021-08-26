@@ -1,8 +1,9 @@
 title: Robert Mohns
+description: User Experience Professional in the Greater Boston area. I work with clients to devise and implement their digital marketing strategies, based on sound UX research, business strategy, and the latest web technologies. Also, I like cars, motorcycles, and building things.
+
 #author:
 #  name: Robert Mohns
 #  email: rmohns@mac.com
-description: User Experience Professional in the Greater Boston area. I work with clients to devise and implement their digital marketing strategies, based on sound UX research, business strategy, and the latest web technologies. Also, I like cars, motorcycles, and building things.
 #theme: minima
 #minima:
 #  skin: solarized
@@ -15,3 +16,45 @@ description: User Experience Professional in the Greater Boston area. I work wit
 #    - writing.md
 #    - about.md
 remote_theme: benbalter/retlab
+
+
+lang: en-US
+# Pages to include in header navigation
+nav_pages:
+  - about.md
+  - writing.md
+
+# Pages to include in footer navigation
+#footer_pages:
+#  - books.md
+#  - fine-print.md
+
+# Links to include on the contact page
+contact_links:
+  - name: Twitter
+    url: https://twitter.com/bratling
+    icon: twitter
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+      comments: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-github-metadata
+  - jekyll-feed
