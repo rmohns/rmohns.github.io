@@ -17,7 +17,7 @@ Here are the top reasons that my clients ask for carousels:
 4. **Unclear Content Priorities.** Closely related to the internal politics problem, the client can’t decide what’s truly most important to their site visitors. A carousel lets everything be important! Hooray!
 
 *Ye Olde Carousel Solution:*\
-![Screenshot of Disney's homepage carousel](carousel-disney.jpg)
+![Screenshot of Disney's homepage carousel](/images/blog/carousel-disney.jpg)
 
 *Disney’s carousel does all the wrong things: It starts moving by itself, has no consistency of theme or message from slide to slide, and has vague calls-to-action. Ship it!*
 
