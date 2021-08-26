@@ -13,7 +13,7 @@ This is tough for system designers to internalize. Consider Microsoft’s Window
 
 > “Microsoft, instead of dealing with the pain of their existing users directly, has trotted out pages of surveys, charts, tables, and even some college-level calculus formulas to prove why the new system is, in theory, an improvement.”
 
-![Mathematical expression of Fitt's Law](0676.Page13-1_069E19D8.png)
+![Mathematical expression of Fitt's Law](/images/0676.Page13-1_069E19D8.png)
 *I love Fitt’s Law, but it’s not a sufficient excuse for unexpected, radical change*
 
 
@@ -41,7 +41,7 @@ The Principle of the Local Maximum ([named by Joshua Porter](https://www.slidesh
 
 You can iterate on a horse and carriage as much as you want, but you can’t A/B test your way from a horse & carriage to an airplane. Your carriage can only get so good.
 
-![How to escape the local maximia](local-maxima-iIllustration-animation.gif)
+![How to escape the local maximia](/images/local-maxima-iIllustration-animation.gif)
 
 So, if *radical change* is the only way to radically improve, how do you do it without alienating your users? Nobody wants to be responsible for the next [Windows 8 fiasco](https://arstechnica.com/information-technology/2012/10/prepare-for-windows-8-induced-user-rage/).
 
