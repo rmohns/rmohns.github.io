@@ -13,4 +13,3 @@ minima:
   show_excerpts: true
   header_pages:
     - writing.md
-    - README.md
