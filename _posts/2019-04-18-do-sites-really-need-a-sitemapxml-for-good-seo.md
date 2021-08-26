@@ -1,5 +1,5 @@
 ---
-title: How is a CMS like a coffee maker?
+title: Do sites really need a Sitemap.xml for good SEO?
 date: 2019-04-18
 categories: seo
 permalink: /writing/do-sites-really-need-a-sitemapxml-for-good-seo
@@ -7,7 +7,8 @@ permalink: /writing/do-sites-really-need-a-sitemapxml-for-good-seo
 
 It's taken as [received wisdom](https://en.wikipedia.org/wiki/Received_wisdom) that good SEO requires a [sitemap.xml file](https://support.google.com/webmasters/answer/156184?hl=en). This is so well established that every “SEO audit" tool checks for the existence of a sitemap.xml file and complains bitterly if it's not there. There is no shortage of SEOs saying a sitemap.xml is practically mandatory. But does SEO really benefit from a sitemap file?
 
-WHAT PROBLEM DOES SITEMAP.XML SOLVE?
+
+## What problem does sitemap.xml solve?
 
 Google created the sitemap.xml in 2005 to fix a problem – it exposed content that the search engines could not find otherwise.
 
@@ -26,6 +27,7 @@ But… A few things have changed in the 14 years since the creation of the sitem
 - Web developers have learned how to make deep content and database-created pages easy to browse and to spider
 
 Most of the problems that sitemaps were meant to fix are no longer problems. If your website still has Flash content or Java applets, it’s time to adopt HTML5. If your content is available only by searching, you should make it browsable.
+
 
 ## But what about Google? sitemap.xml is required, right? It helps your PageRank, right? Link juice?
 
