@@ -1,7 +1,7 @@
 title: Robert Mohns
-#author:
-#  name: Robert Mohns
-#  email: rmohns@mac.com
+author:
+  name: Robert Mohns
+  email: rmohns@mac.com
 description: User Experience Professional in the Greater Boston area. I work with clients to devise and implement their digital marketing strategies, based on sound UX research, business strategy, and the latest web technologies. Also, I like cars, motorcycles, and building things.
 theme: minima
 minima:
@@ -13,3 +13,4 @@ minima:
   show_excerpts: true
   header_pages:
     - writing.md
+    - about.md
