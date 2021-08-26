@@ -1,9 +1,7 @@
 title: Robert Mohns
-description: User Experience Professional in the Greater Boston area. I work with clients to devise and implement their digital marketing strategies, based on sound UX research, business strategy, and the latest web technologies. Also, I like cars, motorcycles, and building things.
+description: User Experience Professional in the Greater Boston area.
+# description: User Experience Professional in the Greater Boston area. I work with clients to devise and implement their digital marketing strategies, based on sound UX research, business strategy, and the latest web technologies. Also, I like cars, motorcycles, and building things.
 
-#author:
-#  name: Robert Mohns
-#  email: rmohns@mac.com
 #theme: minima
 #minima:
 #  skin: solarized
@@ -17,14 +15,12 @@ description: User Experience Professional in the Greater Boston area. I work wit
 #    - about.md
 remote_theme: benbalter/retlab
 
-
 lang: en-US
 # Pages to include in header navigation
 nav_pages:
   - about.md
   - writing.md
 
-# Pages to include in footer navigation
 #footer_pages:
 #  - books.md
 #  - fine-print.md
