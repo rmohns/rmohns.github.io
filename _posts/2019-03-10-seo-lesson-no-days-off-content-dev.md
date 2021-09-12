@@ -1,5 +1,5 @@
 ---
-title: SEO lessons learned: There are no “days off” in content development
+title: "SEO lessons learned: There are no “days off” in content development"
 date: 2019-03-10
 categories: seo
 permalink: /writing/seo-lessons-learned-there-are-no-days-off-in-content-development
