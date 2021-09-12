@@ -1,5 +1,5 @@
 ---
-title: Lessons from Hollywood: How to get the best solutions from your team
+title: "Lessons from Hollywood: How to get the best solutions from your team"
 date: 2017-08-25
 categories: process
 permalink: /writing/lessons-from-hollywood-how-to-get-the-best-solutions-from-your-team
